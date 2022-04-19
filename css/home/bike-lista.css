@@ -12,8 +12,9 @@
   gap: 40px;
   padding: 0 20px 20px 20px;
   max-width: 1400px;
-  margin: 0 auto;
-  overflow-x: auto;
+  margin-left: auto;
+  margin-right: auto;
+  overflow-x: hidden;
 }
 
 .bike-lista li {
@@ -54,8 +55,8 @@
 }
 
 @media (max-width: 800px) {
-  .bike-lista{
-    padding-bottom: 120px;
+  .bike-lista {
+    padding-bottom: 60px;
   }
   .bike-lista ul {
     gap: 20px;

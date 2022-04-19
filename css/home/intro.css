@@ -33,7 +33,7 @@
   .intro-bg {
     background-color: var(--g11);
     padding-top: 40px;
-    box-shadow: inset 0 -60px 0 #fff;
+    box-shadow: inset 0 -60px #fff;
   }
   .intro {
     grid-template-columns: 1fr;
